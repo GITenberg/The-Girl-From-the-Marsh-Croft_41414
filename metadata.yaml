@@ -1,0 +1,43 @@
+_repo: The-Girl-From-the-Marsh-Croft_41414
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Howard, Velma Swanston
+    birthdate: 1868
+    deathdate: 1937
+    gutenberg_agent_id: '4490'
+    url: http://www.gutenberg.org/2009/agents/4490
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerlof, Selma
+    - Lagerloef, Selma
+    - Lagerlöf, Selma Ottiliana Lovisa
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
+description: ''
+gutenberg_issued: '2012-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41414'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Short stories, Swedish -- Translations into English'
+- !lcsh 'Sweden -- Fiction'
+- !lcsh 'Lagerlöf, Selma, 1858-1940 -- Translations into English'
+tableOfContents: The girl from the marsh croft -- The silver mine -- The airship --
+  The wedding march -- The musician -- The legend of the Christmas rose -- A story
+  from Jerusalem -- Why the Pope lived to be so old -- The story of a story.
+title: The Girl from the Marsh Croft
+url: http://www.gutenberg.org/ebooks/41414
